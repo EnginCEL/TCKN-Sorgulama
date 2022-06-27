@@ -1,0 +1,40 @@
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\TCKN Sorgulama.exe
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\TCKN Sorgulama.deps.json
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\TCKN Sorgulama.runtimeconfig.json
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\TCKN Sorgulama.runtimeconfig.dev.json
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\TCKN Sorgulama.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\ref\TCKN Sorgulama.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\TCKN Sorgulama.pdb
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\bin\Debug\net5.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN_Sorgulama.Form1.resources
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.csproj.GenerateResource.cache
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.AssemblyInfoInputs.cache
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.AssemblyInfo.cs
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.csproj.CoreCompileInputs.cache
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.csproj.CopyComplete
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\ref\TCKN Sorgulama.dll
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.pdb
+C:\Users\ENGIN\source\repos\TCKN Sorgulama\TCKN Sorgulama\obj\Debug\net5.0-windows\TCKN Sorgulama.genruntimeconfig.cache
